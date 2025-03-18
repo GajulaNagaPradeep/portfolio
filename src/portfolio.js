@@ -241,10 +241,10 @@ const experience = {
         {
           title: "Frontend UI Developer",
           company: "Boston Scientific",
-          company_url: "https://cwds.ca.gov/",
+          company_url: "https://www.bostonscientific.com/",
           logo_path: "boston.jpg",
-          duration: "Jul 2017 - Oct 2019",
-          location: "Sacramento, CA",
+          duration: "Jul 2015 - Jun 2017",
+          location: "Denver, CO (Remote)",
           description: `Gathered software specifications and business requirements. Developed React components for SPAs using React.js, Redux, Node.js, and ES6. Designed test plans and test cases, executed test scripts, and implemented client-side validations. Ensured full-stack accessibility compliance with WCAG and ADA standards using JAWS and NVDA. Conducted defect verification, regression testing, and collaborated with developers to resolve issues. Generated periodic reports for management and provided testing updates in meetings and walkthroughs.
         `,
           color: "#D83B01",
