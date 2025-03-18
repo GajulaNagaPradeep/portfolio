@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b1dbc65b.chunk.css",
+    "main.js": "/portfolio/static/js/main.c76c6610.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c76c6610.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.47080001.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.47080001.js.map",
+    "static/js/2.9183d46d.chunk.js": "/portfolio/static/js/2.9183d46d.chunk.js",
+    "static/js/2.9183d46d.chunk.js.map": "/portfolio/static/js/2.9183d46d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c3b1ed1d1b75902f2e0c94ee78cb134d.js": "/portfolio/precache-manifest.c3b1ed1d1b75902f2e0c94ee78cb134d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.b1dbc65b.chunk.css.map": "/portfolio/static/css/main.b1dbc65b.chunk.css.map",
+    "static/js/2.9183d46d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9183d46d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/IJCST.jpg": "/portfolio/static/media/IJCST.3da3ad80.jpg",
+    "static/media/bsnl.avif": "/portfolio/static/media/bsnl.01707445.avif",
+    "static/media/campUniv.png": "/portfolio/static/media/campUniv.7464b96b.png",
+    "static/media/cwds.webp": "/portfolio/static/media/cwds.a0905408.webp",
+    "static/media/cwoc.png": "/portfolio/static/media/cwoc.404ae7bc.png",
+    "static/media/deepu.png": "/portfolio/static/media/deepu.f0f0357f.png",
+    "static/media/dhcs.jpg": "/portfolio/static/media/dhcs.750bc05e.jpg",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/github.png": "/portfolio/static/media/github.0ba2aa20.png",
+    "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/nextera.jpeg": "/portfolio/static/media/nextera.e133a5af.jpeg",
+    "static/media/postman.jpg": "/portfolio/static/media/postman.22f11067.jpg",
+    "static/media/postman.png": "/portfolio/static/media/postman.c108f557.png",
+    "static/media/safe.png": "/portfolio/static/media/safe.20b3f6c6.png",
+    "static/media/univofDenver.png": "/portfolio/static/media/univofDenver.1a125295.png",
+    "static/media/usbank.png": "/portfolio/static/media/usbank.c61705be.png",
+    "static/media/usbank.jpg": "/portfolio/static/media/usbank.edfdb1de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47080001.js",
+    "static/js/2.9183d46d.chunk.js",
+    "static/css/main.b1dbc65b.chunk.css",
+    "static/js/main.c76c6610.chunk.js"
+  ]
+}
